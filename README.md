@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Gennaro, and welcome to my GitHub bio. 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gennaro and welcome to my GitHub bio.</h1>
 
 📗 I'm a CS student!
 
@@ -16,10 +16,18 @@
 * 🌱 I’m currently learning programming languages, algorithms & data structures.
 
 ### Languages:
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<a target="_blank" href="https://icons8.com/icon/40670/c-programming"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+<a target="_blank" href="https://www.java.com/it/"> <img src="https://img.icons8.com/color/47/000000/java-coffee-cup-logo--v1.png"/></a>
+<a target="_blank" href="https://www.w3schools.com/html/"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a target="_blank" href="https://www.w3schools.com/Css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a target="_blank" href="https://www.javascript.com/"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+<a target="_blank" href="https://www.mysql.com/it/"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
 
 
+
+### Tools:
+<a target="_blank" href="https://visualstudio.microsoft.com/"> <img src="https://img.icons8.com/fluency/37/000000/visual-studio.png"/></a>
+<a target="_blank" href="https://en.wikipedia.org/wiki/Vim_(text_editor)"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/37/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/></a> 
+<a target="_blank" href="https://www.jetbrains.com/webstorm/"> <img src="https://img.icons8.com/color/37/000000/webstorm.png"/></a>
+<a target="_blank" href="https://www.eclipse.org/ide/"> <img src="https://img.icons8.com/officel/37/000000/java-eclipse.png"/></a>
+<a target="_blank" href="https://github.com/"></a> <img src="https://img.icons8.com/bubbles/40/000000/github.png"/>
