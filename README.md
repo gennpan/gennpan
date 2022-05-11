@@ -31,7 +31,10 @@
 <a target="_blank" href="https://it.wikipedia.org/wiki/Xcode"> <img src="https://img.icons8.com/color/40/000000/xcode.png"/></a>
 
 ##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gennpan&show_icons=true&theme=merko)
+
+##
 
 ### Connect with me:
 <a target="_blank" href="https://www.linkedin.com/in/gennaro-panico-329385238"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
