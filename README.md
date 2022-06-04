@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gennaro and welcome to my GitHub bio.</h1>
+<h1 align="center">Hi, I'm Gennaro and welcome to my GitHub bio.</h1>
 
 📗 I'm a CS student!
 
