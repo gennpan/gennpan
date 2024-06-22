@@ -14,7 +14,7 @@
 
 ### Languages:
 <a target="_blank" href="https://www.w3schools.com/c/index.php"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-<a target="_blank" href="[https://www.mysql.com/it/](https://it.wikipedia.org/wiki/Bjarne_Stroustrup)"> <img src="https://img.icons8.com/color/48/000000/c++.png"/></a>
+<a target="_blank" href="[https://www.mysql.com/it/](https://it.wikipedia.org/wiki/Bjarne_Stroustrup)"> <img src="https://img.icons8.com/color/48/000000/cpp.png"/></a>
 <a target="_blank" href="https://www.java.com/it/"> <img src="https://img.icons8.com/color/47/000000/java-coffee-cup-logo--v1.png"/></a>
 <a target="_blank" href="https://www.w3schools.com/html/"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a target="_blank" href="https://www.w3schools.com/Css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
