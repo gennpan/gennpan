@@ -27,6 +27,7 @@
 
 ### Tools:
 <a target="_blank" href="https://visualstudio.microsoft.com/"> <img src="https://img.icons8.com/fluency/37/000000/visual-studio.png"/></a>
+<a target="_blank" href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/fluency/37/000000/vscode.png"/></a>
 <a target="_blank" href="https://en.wikipedia.org/wiki/Vim_(text_editor)"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/37/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/></a> 
 <a target="_blank" href="https://www.jetbrains.com/webstorm/"> <img src="https://img.icons8.com/color/37/000000/webstorm.png"/></a>
 <a target="_blank" href="https://www.jetbrains.com/pycharm/"> <img src="https://img.icons8.com/color/37/000000/pycharm.png"/></a>
