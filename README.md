@@ -6,11 +6,9 @@
 
 ✈️I love to travel.
 
-☕️ I drink -coffee & +tea.
-
 🔊 I love listening all kinds of music.
 ##
-* 🌱 I’m currently learning programming languages, algorithms & data structures.
+* 🌱 I’m currently studying machine-learning.
 
 ### Languages:
 <a target="_blank" href="https://www.w3schools.com/c/index.php"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
@@ -20,6 +18,9 @@
 <a target="_blank" href="https://www.w3schools.com/Css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a target="_blank" href="https://www.javascript.com/"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
 <a target="_blank" href="https://www.mysql.com/it/"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+<a target="_blank" href="https://www.python.org/"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/></a>
+
+
 
 
 
