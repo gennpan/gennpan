@@ -19,6 +19,7 @@
 <a target="_blank" href="https://www.javascript.com/"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
 <a target="_blank" href="https://www.mysql.com/it/"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
 <a target="_blank" href="https://www.python.org/"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a target="_blank" href="https://www.swift.org/"> <img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
 
 
 
@@ -27,7 +28,8 @@
 ### Tools:
 <a target="_blank" href="https://visualstudio.microsoft.com/"> <img src="https://img.icons8.com/fluency/37/000000/visual-studio.png"/></a>
 <a target="_blank" href="https://en.wikipedia.org/wiki/Vim_(text_editor)"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/37/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/></a> 
-<a target="_blank" href="https://www.jetbrains.com/webstorm/"> <img src="https://img.icons8.com/color/37/000000/webstorm.png"/></a>
+<a target="_blank" href="https://www.jetbrains.com/webstorm/"> <img src="https://img.icons8.com/color/37/000000/webstorm.png"/></a>ù
+<a target="_blank" href="https://www.jetbrains.com/pycharm/"> <img src="https://img.icons8.com/color/37/000000/pycharm.png"/></a>
 <a target="_blank" href="https://www.eclipse.org/ide/"> <img src="https://img.icons8.com/officel/37/000000/java-eclipse.png"/></a>
 <a target="_blank" href="https://github.com/"></a> <img src="https://img.icons8.com/bubbles/40/000000/github.png"/>
 <a target="_blank" href="https://it.wikipedia.org/wiki/Xcode"> <img src="https://img.icons8.com/color/40/000000/xcode.png"/></a>
